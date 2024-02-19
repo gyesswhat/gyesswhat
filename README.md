@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*언젠간 추가하겠지...*
+기술블로그
+https://velog.io/@heroinebabe
