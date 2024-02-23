@@ -29,4 +29,24 @@ Here are some ideas to get you started:
 ... Started GyulApplication in 12.11 seconds (process running for 22.000)
 ```
 
-기술블로그 https://velog.io/@heroinebabe
+*I've used...*
+
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/java-%235382a1?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/amazon%20aws-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+*Blog*  
+  
+![Static Badge](https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@heroinebabe)
+
+
+*Contact*  
+
+![Static Badge](https://img.shields.io/badge/email-%233693F3?style=for-the-badge&logo=icloud&logoColor=white&link=mailto%3Ah2weirdo%40icloud.com)
+![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fgyesswhat%2F)
+
+
