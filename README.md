@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 *Blog*  
   
-![Static Badge](https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@heroinebabe)
+<a href="https://velog.io/@heroinebabe/posts" target="_blank" rel="noreferrer noopener">![Static Badge](https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@heroinebabe)</a>
 
 
 *Contact*  
