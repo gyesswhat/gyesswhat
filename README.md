@@ -39,14 +39,14 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/amazon%20aws-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-*Blog*  
+*I sometimes write...*  
   
-<a href="https://velog.io/@heroinebabe/posts" target="_blank" rel="noreferrer noopener">![Static Badge](https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@heroinebabe)</a>
+<a href="https://velog.io/@heroinebabe/posts">![Static Badge](https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@heroinebabe)</a>
 
 
-*Contact*  
+*You can contact me via...*  
 
-![Static Badge](https://img.shields.io/badge/email-%233693F3?style=for-the-badge&logo=icloud&logoColor=white&link=mailto%3Ah2weirdo%40icloud.com)
-![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fgyesswhat%2F)
+<a href="mailto:h2weirdo@icloud.com">![Static Badge](https://img.shields.io/badge/email-%233693F3?style=for-the-badge&logo=icloud&logoColor=white&link=mailto%3Ah2weirdo%40icloud.com)</a>
+<a href="https://www.instagram.com/gyesswhat">![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fgyesswhat%2F)</a>
 
 
