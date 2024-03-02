@@ -51,6 +51,16 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/IntelliJ-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 
+*I participated in...*  
+
+<a href="https://github.com/gyesswhat/groupproject3">![Static Badge](https://img.shields.io/badge/ECC%20%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99%20%EC%9B%B9%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%23000000?style=for-the-badge&label=Backend)
+</a>
+* 팀장으로 참여했습니다
+* Notion 회의록을 작성했습니다
+* GitHub README 파일을 작성했습니다
+* Post/Comment 관련 기본 코드 개발을 맡았습니다
+* AWS ec2/rds 인스턴스를 생성해 백엔드 서버 배포에 성공했습니다
+
 *I sometimes write...*  
   
 <a href="https://velog.io/@heroinebabe/posts">![Static Badge](https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@heroinebabe)</a>
