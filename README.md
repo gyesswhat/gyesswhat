@@ -53,13 +53,21 @@ Here are some ideas to get you started:
 
 *I participated in...*  
 
-<a href="https://github.com/gyesswhat/groupproject3">![Static Badge](https://img.shields.io/badge/ECC%20%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99%20%EC%9B%B9%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%23000000?style=for-the-badge&label=Backend)
+<a href="https://github.com/gyesswhat/groupproject3">![Static Badge](https://img.shields.io/badge/Backend-%EB%B0%B0%EB%8B%AC%ED%8C%9F%20%EC%A1%B0%EC%A7%81%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9D%B4%ED%99%94%EA%B3%B5%EC%9C%A0%EB%B0%B0%EB%8B%AC-black?style=for-the-badge&labelColor=grey&color=black)
 </a>
-* 팀장으로 참여했습니다
-* Notion 회의록을 작성했습니다
-* GitHub README 파일을 작성했습니다
-* Post/Comment 관련 기본 코드 개발을 맡았습니다
-* AWS ec2/rds 인스턴스를 생성해 백엔드 서버 배포에 성공했습니다
+<br>
+<a href="https://github.com/ewhamoa/EwhaMoa_BE">![Static Badge](https://img.shields.io/badge/Backend-%EB%8F%99%EC%95%84%EB%A6%AC%2F%ED%95%99%ED%9A%8C%20%EA%B2%80%EC%83%89%20%EC%84%9C%EB%B9%84%EC%8A%A4%20Ewhamoa-black?style=for-the-badge&labelColor=grey&color=black)</a>
+<br>
+<a href="https://github.com/motmallineun-agassi/butler-BE">![Static Badge](https://img.shields.io/badge/Backend-%EC%83%9D%EC%84%B1%ED%98%95%20AI%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%97%B0%EC%95%A0%EC%83%81%EB%8B%B4%20%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AA%BB%EB%A7%90%EB%A6%AC%EB%8A%94%20%EC%95%84%EA%B0%80%EC%94%A8-black?style=for-the-badge&labelColor=grey&color=black)</a>
+<br>
+<a href="https://github.com/gyesswhat/2024-UNIS-Festival-Back">![Static Badge](https://img.shields.io/badge/Backend-%EC%9D%B4%ED%99%94%EC%97%AC%EB%8C%80%20UNIS%20%EB%8C%80%EB%8F%99%EC%A0%9C%20%EB%B6%80%EC%8A%A4%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-black?style=for-the-badge&labelColor=grey&color=black)</a>
+<br>
+<a href="https://github.com/gyesswhat/DD-Back">![Static Badge](https://img.shields.io/badge/Backend-%EC%B1%84%EC%8B%9D%EC%A3%BC%EC%9D%98%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%8C%85%20%EC%9B%B9%EC%95%B1%20Vegiter-black?style=for-the-badge&labelColor=grey&color=black)</a>
+<br>
+<a href="https://github.com/2024-EWDM/2024-EWDM-Back">![Static Badge](https://img.shields.io/badge/Backend-2024%20%EC%97%B0%EA%B7%B9%ED%8C%80%20%EC%9D%B4%EC%99%B8%EB%8F%99%EB%AC%B8%20'%EA%B8%B0%EC%96%B5%EC%9D%98%20%EC%9D%B4%EB%A6%84'%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-black?style=for-the-badge&labelColor=grey&color=black)</a>
+<br>
+<a href="https://github.com/gyesswhat/hearhere-back">![Static Badge](https://img.shields.io/badge/Backend-%EC%83%9D%EC%84%B1%ED%98%95%20AI%20%ED%99%9C%EC%9A%A9%20ASMR%20%EC%84%9C%EB%B9%84%EC%8A%A4%20Hear%20Here-black?style=for-the-badge&labelColor=grey&color=black)</a>
+
 
 *I sometimes write...*  
   
