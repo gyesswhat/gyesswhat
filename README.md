@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/gyesswhat?pet-id=639868127136715155"
+    width="600"
+    height="120"
+  />
+</a>
 
 ```                                     _           _   
                                     | |         | |  
