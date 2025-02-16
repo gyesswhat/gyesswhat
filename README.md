@@ -95,7 +95,8 @@ Here are some ideas to get you started:
 
 *I sometimes write...*  
   
-<a href="https://velog.io/@heroinebabe/posts">![Static Badge](https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@heroinebabe)</a>
+<a href="https://velog.io/@heroinebabe/posts">Velog</a><br>
+<a href="https://disquiet.io/@heroinebabe">Disquiet</a>
 
 
 *You can contact me via...*  
