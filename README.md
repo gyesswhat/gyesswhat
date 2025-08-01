@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/devxb/gitanimals">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gyesswhat&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/gyesswhat?pet-id=639868127136715155"
+    src="https://render.gitanimals.org/lines/gyesswhat?pet-id=738051845238094549"
     width="600"
     height="120"
   />
