@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 ... Started GyulApplication in 12.11 seconds (process running for 22.000)
 ```
 
-<a href="https://elderly-honeycrisp-21b.notion.site/Morgan-Kim-2156fd275faf80bf9db8cd3ea8b5c259">⚡Portfolio</a> <br>
+<a href="https://gyesswhat-portfolio.vercel.app" target="_blank">⚡Portfolio</a> <br>
 <a href="mailto:h2weirdo@icloud.com">💬Email</a>
