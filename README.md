@@ -1,3 +1,3 @@
 ### 🐄
 
-check my [website](https://gyesswhat.dev)
+check my [homepage](https://gyesswhat.dev)
