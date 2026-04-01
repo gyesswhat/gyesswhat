@@ -1,3 +1,4 @@
 {
-  "origins": ["https://log.gyesswhat.dev"]
+  "origins": ["https://log.gyesswhat.dev"],
+  "originsRegex": ["https://log\\.gyesswhat\\.dev"]
 }
