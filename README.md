@@ -24,7 +24,7 @@ Outside of that, I'm into sci-fi movies, writing poetry and fiction, and reading
 <sub>N O W</sub>
 
 Interning at [SWEETS Lab @ Ewha](https://sweets.ewha.ac.kr)<br>
-Getting [knewit](https://github.com/knewit-app) ready for launch
+Getting [knewit](https://knewit.kr) ready for launch
 
 <br>
 
